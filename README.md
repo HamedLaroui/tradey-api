@@ -1,8 +1,8 @@
 # Tradey API 🎮
 
-> A RESTful API for a peer-to-peer video game trading platform — built with Flask, SQLAlchemy, and JWT authentication.
+> A RESTful API for a peer-to-peer video game trading platform built with Flask, SQLAlchemy, and JWT authentication.
 
-Tradey lets gamers list used games, send trade requests, respond to them, and rate completed exchanges — reducing game wastage through a safe, structured trading environment.
+Tradey lets gamers list used games, send trade requests, respond to them and rate completed exchanges, reducing game wastage through a safe, structured trading environment.
 
 ---
 
